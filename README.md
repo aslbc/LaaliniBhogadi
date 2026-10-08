@@ -70,3 +70,5 @@ I build ML systems that hold up outside the notebook: pretraining under tight co
 * 📙 **My Books:**
   * [Build Your Own Optimised AI Agents Using CrewAI & LangChain](https://www.amazon.in/Build-your-Optimized-Agents-LangChain-ebook/dp/B0D783XR2X)
   * [The Enterprise LLM Blueprint: A Complete Technical Guide to Architecting, Deploying, and Scaling Large Language Models in the Enterprise](https://www.amazon.in/Enterprise-LLM-Blueprint-Technical-Architecting-ebook/dp/B0H668BYTJ)
+
+Add contact email?
